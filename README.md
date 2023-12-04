@@ -9,12 +9,6 @@
   </p>
 </p>
 
-## Table Of Contents
-
-* [About the Project](#about-the-project)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-
 ## About The Project
 This project is about building a shell interpreter program. By displaying a prompt to enter shell commands, handling parsing and execution.
 It also handles:
